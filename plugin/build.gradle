@@ -1,0 +1,12 @@
+apply plugin: "groovy"
+
+dependencies {
+    implementation gradleApi()
+    implementation localGroovy()
+}
+
+repositories {
+    jcenter()
+}
+
+apply from: 'build-maven.gradle'

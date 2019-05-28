@@ -1,2 +1,3 @@
 include ':lib_asm_demo'
+include ':plugin'
 include ':app'

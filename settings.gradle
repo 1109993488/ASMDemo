@@ -1,2 +1,2 @@
+include ':lib_asm_demo'
 include ':app'
-rootProject.name='Test'
